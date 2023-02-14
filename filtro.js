@@ -1,5 +1,6 @@
 // Tenemos un li de productos
 
+//me quedé revisando este arreglo :(
 const productos = [
   {nombre: "Zapato negro", tipo: "zapato", color: "negro", img: "./taco-negro.jpg"},
   {nombre: "Zapato azul", tipo: "zapato", color: "azul", img: "./taco-azul.jpg"},
